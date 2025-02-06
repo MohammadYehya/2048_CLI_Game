@@ -1,0 +1,3 @@
+Settings
+ExpertTimer = 0
+TitleColor = 2
